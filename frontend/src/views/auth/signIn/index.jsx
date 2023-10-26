@@ -46,7 +46,7 @@ function SignIn() {
     { bg: "gray.200" },
     { bg: "whiteAlpha.300" }
   );
-  // teste 
+  // TESTE MIGUEL
   const googleActive = useColorModeValue(
     { bg: "secondaryGray.300" },
     { bg: "whiteAlpha.200" }
